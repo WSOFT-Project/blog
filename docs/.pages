@@ -1,2 +1,10 @@
 nav:
     - index.md
+    - ブログ:
+        - taiseiue
+        - zen
+    - 共同作成ガイド: https://docs.wsoft.ws/contribute/
+    - 製品: https://docs.wsoft.ws/products/
+    - 法的資料: https://docs.wsoft.ws/legal/
+    - あみうは: https://docs.wsoft.ws/amiuha/
+    - 放送部マニュアル: https://docs.wsoft.ws/housou/
