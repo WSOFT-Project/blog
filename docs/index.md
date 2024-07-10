@@ -20,4 +20,8 @@ disable_tools : true
 
 <p>WSOFTBlogへようこそ。このサイトでは、さまざまなWSOFTの製品の使用方法について説明するだけでなく、<a href="https://docs.wsoft.ws/blog/">ブログ</a>を通じてWSOFTの情報を発信しています。<a href="./blog/about-site">このサイトについて</a></p>
 
+="wsoft"=
+
+="zen"=
+
 ="taiseiue"=
