@@ -1,6 +1,7 @@
 nav:
     - index.md
     - ブログ:
+        - wsoft
         - taiseiue
         - zen
     - 共同作成ガイド: https://docs.wsoft.ws/contribute/
