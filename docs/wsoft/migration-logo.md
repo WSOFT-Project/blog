@@ -1,5 +1,5 @@
 ---
-title : WSOFTのロゴ変更に関する情報
+title : WSOFTのロゴ変更のお知らせ
 summary : WSOFTのロゴが新しくなりました。
 date : 2022-04-04
 order : 1

@@ -1,5 +1,5 @@
 ---
-title : wsoft.wsへのドメイン移行に関する情報
+title : wsoft.wsへのドメイン移行のお知らせ
 summary : WSOFTのサイトURLが新しくなりました。
 date : 2022-09-25
 order : 2
